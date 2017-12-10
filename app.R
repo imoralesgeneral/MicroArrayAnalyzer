@@ -1,11 +1,11 @@
-#
-# This is a Shiny web application. You can run the application by clicking.
-# 
-# This application allow you analyse microarray data.
-# 
-# Author: Isaac Morales General
-# Version: 1.0
-#
+#																																									#
+# This is a Shiny web application. You can run the application by clicking.				#
+# 																																								#
+# This application allow you analyse microarray data.															#
+# 																																								#
+# Author: Isaac Morales General																										#
+# Version: 1.0																																		#
+###################################################################################
 
 # Required packages
 
